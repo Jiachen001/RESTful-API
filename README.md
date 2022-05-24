@@ -1,25 +1,24 @@
-# JenkinsTest
+# RestFull API Test
 
 ### API Test:
 
 #### 1. Post
-![Post](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Post.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/Post.png)
 
 #### 2. Put
-![Put](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Put.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/Put.png)
 ##### After Put operation result:
-![Put](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Put.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/GetAll%20After%20Change.png)
 
 #### 3. Get
-![Get](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/GetAll.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/GetAll.png)
 
 #### 4. GetById
-![Get](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/GetOne.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/GetById.png)
 
 #### 5. Delete
-![Delete](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Delete.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/Delete.png)
 
 ##### After Delete id 2 result:
-
-![Post](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/After%20Delete.jpg)
+![Post](https://raw.githubusercontent.com/Jiachen001/RESTful-API/main/TestResult/IMG/Get%20After%20Delete.png)
 
